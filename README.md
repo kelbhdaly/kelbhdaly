@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kelbhdaly/kelbhdaly/main/assets/banner.png" />
+  <img src="https://raw.githubusercontent.com/kelbhdaly/kelbhdaly/main/banner.png" />
 </p>
 
 <p align="center">
