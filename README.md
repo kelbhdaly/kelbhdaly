@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kelbhdaly/kelbhdaly/main/banner.png"/>
-</p>
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=38&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=1000&lines=Khaled+Mohamed;Full+Stack+.NET+Developer;Angular+Developer;Building+Scalable+Web+Applications"/>
 </h1>
