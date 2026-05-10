@@ -21,16 +21,14 @@
 
 ## 👨‍💻 About Me
 
-```txt
-🔥  ASP.NET Core Specialist
-⚡  Angular & TypeScript Developer
-🛠  REST APIs & Clean Architecture
-🚀  Backend Engineering
-🎯  Building scalable, modern web apps
-📍  Based in Egypt
-```
-
----
+| | |
+|---|---|
+| 🔥 | ASP.NET Core Specialist |
+| ⚡ | Angular & TypeScript Developer |
+| 🛠 | REST APIs & Clean Architecture |
+| 🚀 | Backend Engineering |
+| 🎯 | Building scalable, modern web apps |
+| 📍 | Based in Egypt |
 
 ## 🧰 Tech Stack
 
