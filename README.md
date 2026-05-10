@@ -30,10 +30,7 @@ Passionate about building scalable, clean, and modern web applications.
   </a>
 </p>
 
----
 
-
-```html
 # 🚀 About Me
 
 <table>
