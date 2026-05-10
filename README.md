@@ -23,7 +23,7 @@
 
 ```txt
 🔥  ASP.NET Core Specialist
-⚡  Angular & TypeScript Developer  
+⚡  Angular & TypeScript Developer
 🛠  REST APIs & Clean Architecture
 🚀  Backend Engineering
 🎯  Building scalable, modern web apps
@@ -60,16 +60,16 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kelbhdaly&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelbhdaly&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kelbhdaly&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00C2FF&style=for-the-badge&label=Profile+Views"/>
+  <img src="https://komarev.com/ghpvc/?username=kelbhdaly&color=00C2FF&style=for-the-badge&label=Profile+Views"/>
 </p>
