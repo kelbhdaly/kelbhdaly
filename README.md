@@ -35,49 +35,32 @@ Passionate about building scalable, clean, and modern web applications.
 
 <table>
 <tr>
-<td width="60%">
 
-<h2>💻 Full Stack .NET & Angular Developer</h2>
+<td width="50%">
 
-<p>
-I build scalable, high-performance web applications using modern backend and frontend technologies.
-</p>
+<h2>💻 Khaled Mohamed</h2>
 
-<br/>
-
-<h3>⚡ Core Expertise</h3>
-
-<p>
-🔹 ASP.NET Core & REST APIs <br/>
-🔹 Angular & TypeScript <br/>
-🔹 Entity Framework Core <br/>
-🔹 SQL Server & Database Design <br/>
-🔹 Clean Architecture & Design Patterns <br/>
-🔹 Responsive UI Development <br/>
-🔹 Docker, Git & CI/CD Basics
-</p>
+<h3>Full Stack .NET & Angular Developer</h3>
 
 <br/>
 
-<h3>⚒️ Tech Stack</h3>
+🔥 ASP.NET Core Specialist  
+⚡ Angular & TypeScript  
+🛠 REST APIs & Clean Architecture  
+🚀 Backend Engineering  
+🎯 Building scalable web apps  
 
-<p>
-<img src="https://skillicons.dev/icons?i=dotnet,cs,angular,ts,js,html,css,bootstrap,mysql,git,github,docker,postman,vscode&perline=7" />
-</p>
+<br/>
+
+<img src="https://skillicons.dev/icons?i=dotnet,cs,angular,ts,html,css,bootstrap,mysql,git,github,docker,postman,vscode" />
+
+</td>
+
+<td width="50%" align="center">
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="320"/>
 
 </td>
 
-<td width="40%" align="center">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelbhdaly&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</td>
 </tr>
 </table>
-```
-
-
