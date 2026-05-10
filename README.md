@@ -33,44 +33,54 @@ Passionate about building scalable, clean, and modern web applications.
 ---
 
 
+```html
 # 🚀 About Me
 
 <table>
 <tr>
-<td width="55%">
+<td width="60%">
 
-<h3>💻 Full Stack .NET & Angular Developer</h3>
+<h2>💻 Full Stack .NET & Angular Developer</h2>
 
 <p>
-
-🔥 Building scalable web applications using ASP.NET Core & Angular
-
-⚡ Strong experience with REST APIs, SQL Server & Entity Framework Core
-
-🛠️ Passionate about Clean Architecture & modern frontend development
-
-🚀 Writing clean, maintainable, and production-ready code
-
-🎯 Always learning new technologies & improving system design
-
+I build scalable, high-performance web applications using modern backend and frontend technologies.
 </p>
 
 <br/>
 
-<h3>⚒️ Main Tech Stack</h3>
+<h3>⚡ Core Expertise</h3>
 
 <p>
-<img src="https://skillicons.dev/icons?i=dotnet,cs,angular,ts,js,html,css,bootstrap,mysql,git,github,docker,postman,vscode" />
+🔹 ASP.NET Core & REST APIs <br/>
+🔹 Angular & TypeScript <br/>
+🔹 Entity Framework Core <br/>
+🔹 SQL Server & Database Design <br/>
+🔹 Clean Architecture & Design Patterns <br/>
+🔹 Responsive UI Development <br/>
+🔹 Docker, Git & CI/CD Basics
+</p>
+
+<br/>
+
+<h3>⚒️ Tech Stack</h3>
+
+<p>
+<img src="https://skillicons.dev/icons?i=dotnet,cs,angular,ts,js,html,css,bootstrap,mysql,git,github,docker,postman,vscode&perline=7" />
 </p>
 
 </td>
 
-<td width="45%">
+<td width="40%" align="center">
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelbhdaly&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </td>
 </tr>
 </table>
+```
 
 
