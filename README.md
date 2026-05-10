@@ -28,7 +28,7 @@
 🚀  Backend Engineering
 🎯  Building scalable, modern web apps
 📍  Based in Egypt
-` ``
+```
 
 ---
 
@@ -78,6 +78,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kelbhdaly&color=00C2FF&style=for-the-badge&label=Profile+Views"/>
 </p>
-```
-
-الفرق: استبدلت الـ `github-readme-stats` بـ **`github-profile-summary-cards`** — ده بيشتغل أثبت وبيديك كارت كبير فوق + 3 كروت تفصيلية تحت 🔥
