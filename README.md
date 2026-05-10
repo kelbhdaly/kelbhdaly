@@ -1,16 +1,18 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kelbhdaly/kelbhdaly/main/banner.png" />
+  <img src="https://raw.githubusercontent.com/kelbhdaly/kelbhdaly/main/banner.png"/>
 </p>
 
-<p align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Khaled+Mohamed;Full+Stack+.NET+Developer;Angular+Developer;Building+Scalable+Web+Applications)](https://git.io/typing-svg)
-
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=38&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=1000&lines=Khaled+Mohamed;Full+Stack+.NET+Developer;Angular+Developer;Building+Scalable+Web+Applications"/>
+</h1>
 
 <h3 align="center">
-Full Stack .NET & Angular Developer focused on building scalable, high-performance web applications.
+💻 Full Stack .NET & Angular Developer
 </h3>
+
+<p align="center">
+Passionate about building scalable, clean, and modern web applications.
+</p>
 
 <br/>
 
@@ -36,11 +38,13 @@ Full Stack .NET & Angular Developer focused on building scalable, high-performan
 
 # 🚀 About Me
 
+<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
 ```csharp
 class KhaledMohamed
 {
     string role = "Full Stack .NET Developer";
-    
+
     string[] backend =
     {
         "ASP.NET Core",
