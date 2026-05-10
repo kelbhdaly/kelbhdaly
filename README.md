@@ -34,28 +34,19 @@ Passionate about building scalable, clean, and modern web applications.
 
 # 🚀 About Me
 
-<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" width="300" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 
-```csharp
-class KhaledMohamed
-{
-    string role = "Full Stack .NET Developer";
+### 👨‍💻 Full Stack .NET Developer
 
-    string[] backend =
-    {
-        "ASP.NET Core",
-        "C#",
-        "Entity Framework",
-        "SQL Server",
-        "REST APIs",
-        "Clean Architecture"
-    };
+- 🔥 Building scalable web applications using ASP.NET Core & Angular
+- ⚡ Strong focus on Clean Architecture & REST APIs
+- 🛠️ Passionate about backend engineering and modern frontend development
+- 🚀 Always learning new technologies and improving system design
+- 🎯 Goal: Build impactful software & grow as a software engineer
 
-    string[] frontend =
-    {
-        "Angular",
-        "TypeScript",
-        "RxJS",
+<br/>
+<br/>
+<br/>,
         "Angular Material",
         "Bootstrap"
     };
