@@ -34,24 +34,45 @@ Passionate about building scalable, clean, and modern web applications.
 
 # 🚀 About Me
 
+```md
+# 🚀 About Me
+
 <table>
 <tr>
-<td width="60%">
+<td width="55%">
 
-### 💻 Full Stack .NET Developer
+<h3>💻 Full Stack .NET & Angular Developer</h3>
 
-- 🔥 ASP.NET Core
-- ⚡ Angular & TypeScript
-- 🛠 REST APIs & Clean Architecture
-- 🚀 Backend Engineering Enthusiast
-- 🎯 Always Learning & Building
+<p>
+
+🔥 Building scalable web applications using ASP.NET Core & Angular
+
+⚡ Strong experience with REST APIs, SQL Server & Entity Framework Core
+
+🛠️ Passionate about Clean Architecture & modern frontend development
+
+🚀 Writing clean, maintainable, and production-ready code
+
+🎯 Always learning new technologies & improving system design
+
+</p>
+
+<br/>
+
+<h3>⚒️ Main Tech Stack</h3>
+
+<p>
+<img src="https://skillicons.dev/icons?i=dotnet,cs,angular,ts,js,html,css,bootstrap,mysql,git,github,docker,postman,vscode" />
+</p>
 
 </td>
 
-<td width="40%">
+<td width="45%">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
 
 </td>
 </tr>
 </table>
+```
+
