@@ -32,9 +32,7 @@ Passionate about building scalable, clean, and modern web applications.
 
 ---
 
-# 🚀 About Me
 
-```md
 # 🚀 About Me
 
 <table>
